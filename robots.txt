@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hioumeta.github.io/sitemap.html.gz
+Sitemap: https://hioumeta.github.io/app/sitemap.html.gz
+Sitemap: https://hioumeta.github.io/assets/sitemap.html.gz
+Sitemap: https://hioumeta.github.io/css/sitemap.html.gz
+Sitemap: https://hioumeta.github.io/includes/sitemap.html.gz
+Sitemap: https://hioumeta.github.io/item/sitemap.html.gz
+Sitemap: https://hioumeta.github.io/src/sitemap.html.gz
